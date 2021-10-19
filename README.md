@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://www.maheshbasnet.info/" target="_blank" rel="noreferrer"><img src="https://www.canva.com/design/DAEtPc16ccg/ucW6mmcX2KNalhrAUyGSrQ/view?utm_content=DAEtPc16ccg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="my banner"></a>
+  <a href="https://www.maheshbasnet.info/" target="_blank" rel="noreferrer"><img src="https://www.canva.com/design/DAEtPc16ccg/ucW6mmcX2KNalhrAUyGSrQ/view?utm_content=DAEtPc16ccg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" ></a>
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.maheshbasnet.info.np/" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm <a href="https://www.maheshbasnet.info.np/" target="_blank" rel="noreferrer">Mahesh</a> 👋
 </h3>
 
 <h2 align="center">
