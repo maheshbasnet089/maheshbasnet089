@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.maheshbasnet.info.np/" target="_blank" rel="noreferrer"><img src="https://www.canva.com/design/DAEtPc16ccg/ucW6mmcX2KNalhrAUyGSrQ/view?utm_content=DAEtPc16ccg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" ></a>
+  <a href="https://www.maheshbasnet.info.np/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/manishbasnet/image/upload/v1634626335/Modern_Digital_Marketing_Specialist_Personal_Profile_LinkedIn_Banner_gj9soy.png" ></a>
 </p>
 
 <h3 align="center">
