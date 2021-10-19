@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.maheshbasnet.info/" target="_blank" rel="noreferrer"><img src="https://www.canva.com/design/DAEtPc16ccg/ucW6mmcX2KNalhrAUyGSrQ/view?utm_content=DAEtPc16ccg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" ></a>
+  <a href="https://www.maheshbasnet.info.np/" target="_blank" rel="noreferrer"><img src="https://www.canva.com/design/DAEtPc16ccg/ucW6mmcX2KNalhrAUyGSrQ/view?utm_content=DAEtPc16ccg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" ></a>
 </p>
 
 <h3 align="center">
@@ -68,4 +68,4 @@ I love the entire process of developing creative websites. I love the challenge 
 
 [![Yu's github stats](https://github-readme-stats.vercel.app/api?username=manishbasnet089)](https://github.com/manishbasnet089)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=manishbasnet089.manishbasnet089)](https://www.maheshbasnet.info/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=manishbasnet089.manishbasnet089)](https://www.maheshbasnet.info.np/)
