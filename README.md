@@ -6,10 +6,6 @@
 Hi there, I'm <a href="https://www.maheshbasnet.info.np/" target="_blank" rel="noreferrer">Mahesh</a> 👋
 </h3>
 
-https://user-images.githubusercontent.com/70196462/137860332-7d25359d-a73d-4fdc-8413-5e9b85cb5f62.mp4
-
-
-
 <h2 align="center">
 I'm a Full-Stack Web Developer 💻, Content Writer ✍️, and Pentester 🧑‍💻.
 </h2> 
