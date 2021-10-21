@@ -66,6 +66,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats 
 
-[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=maheshbasnet089)](https://github.com/manishbasnet089)
+[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=maheshbasnet089)](https://github.com/maheshbasnet089)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=maheshbasnet089.maheshbasnet089)](https://www.maheshbasnet.info.np/)
