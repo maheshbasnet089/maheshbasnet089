@@ -10,8 +10,7 @@ Hi there, I'm <a href="https://maheshbasnet.info.np/" target="_blank" rel="noref
 I'm a Full-Stack Web Developer 💻, Content Writer ✍️, and Pentester 🧑‍💻.
 </h2> 
 
-Hey there, it's me mahesh often called as manish from Nepal. I love to know how things works under the hood,how to make impossible possible and how to convince/manipulate machine as well as human.A rising flame  from Nepal.
-Note : You're beautiful believe me.
+Hey there, it's me mahesh often called as manish from Nepal. I love to know how things works under the hood,how to make impossible possible and how to convince/manipulate machine as well as human.
 
 ### 🤝 Connect with me:
 
