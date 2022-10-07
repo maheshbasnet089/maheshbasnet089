@@ -58,7 +58,7 @@ Hey there, it's me mahesh often called as manish from Nepal. I love to know how 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ## 📝 Latest Blog Posts
-
+- [Bug Bounty Roadmap/Methodology](https://maheshbasnet.medium.com/bug-bounty-roadmap-methodology-f58f30b02218)
 - [Best Graphics Card for 1080p 144Hz Gaming](https://maheshbasnet.medium.com/best-graphics-card-for-1080p-144hz-gaming-fd9ac4203011)
 - [What are Abstract Data Types(ADT)?](https://maheshbasnet.medium.com/what-are-abstract-datatypes-adt-f6506ff386db)
 - [Why is dogecoin better than bitcoin?](https://maheshbasnet.medium.com/why-is-dogecoin-better-than-bitcoin-36907523154f)
