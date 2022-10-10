@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://maheshbasnet.info.np/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/manishbasnet/image/upload/v1634626335/Modern_Digital_Marketing_Specialist_Personal_Profile_LinkedIn_Banner_gj9soy.png" ></a>
+  <a href="https://maheshbasnet.info.np/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/manishbasnet/image/upload/v1634626335/Modern_Digital_Marketing_Specialist_Personal_Profile_LinkedIn_Banner_gj9soy.png" alt="Mahesh basnet | Manish Basnet "></a>
 </p>
 
 <h3 align="center">
@@ -14,8 +14,8 @@ Hey there, it's me mahesh often called as manish from Nepal. I love to know how 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/manish-basnet-200526213/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://maheshbasnet.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://www.linkedin.com/in/manish-basnet-200526213/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Mahesh basnet | Manish Basnet | LinkedIn" width="21px"/></a>
+<a href="https://maheshbasnet.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Manish Basnet|Mahesh Basnet" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -58,8 +58,8 @@ Hey there, it's me mahesh often called as manish from Nepal. I love to know how 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ## 📝 Latest Blog Posts
+- [Fuzzing for Bug Bounty Hunting](https://maheshbasnet.medium.com/how-fuzzing-can-boost-you-bug-bounty-career-49e499900aa9)
 - [Bug Bounty Roadmap/Methodology](https://maheshbasnet.medium.com/bug-bounty-roadmap-methodology-f58f30b02218)
-- [Best Graphics Card for 1080p 144Hz Gaming](https://maheshbasnet.medium.com/best-graphics-card-for-1080p-144hz-gaming-fd9ac4203011)
 - [What are Abstract Data Types(ADT)?](https://maheshbasnet.medium.com/what-are-abstract-datatypes-adt-f6506ff386db)
 - [Why is dogecoin better than bitcoin?](https://maheshbasnet.medium.com/why-is-dogecoin-better-than-bitcoin-36907523154f)
 - [Why Ignoring DATA STRUCTURES Will Cost You Time and Money?](https://maheshbasnet.medium.com/why-ignoring-data-structures-will-cost-you-time-and-money-914c268ba7f)
@@ -67,6 +67,6 @@ Hey there, it's me mahesh often called as manish from Nepal. I love to know how 
 
 ## 📈 GitHub Stats 
 
-[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=maheshbasnet089)](https://github.com/maheshbasnet089)
+[![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=maheshbasnet089)](https://github.com/maheshbasnet089)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=maheshbasnet089.maheshbasnet089)](https://www.maheshbasnet.info.np/)
