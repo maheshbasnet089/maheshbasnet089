@@ -60,10 +60,6 @@ Hey there, it's me mahesh often called as manish from Nepal. I love to know how 
 ## 📝 Latest Blog Posts
 - [Fuzzing for Bug Bounty Hunting](https://maheshbasnet.medium.com/how-fuzzing-can-boost-you-bug-bounty-career-49e499900aa9)
 - [Bug Bounty Roadmap/Methodology](https://maheshbasnet.medium.com/bug-bounty-roadmap-methodology-f58f30b02218)
-- [What are Abstract Data Types(ADT)?](https://maheshbasnet.medium.com/what-are-abstract-datatypes-adt-f6506ff386db)
-- [Why is dogecoin better than bitcoin?](https://maheshbasnet.medium.com/why-is-dogecoin-better-than-bitcoin-36907523154f)
-- [Why Ignoring DATA STRUCTURES Will Cost You Time and Money?](https://maheshbasnet.medium.com/why-ignoring-data-structures-will-cost-you-time-and-money-914c268ba7f)
-- [Mongo Injection](https://maheshbasnet.medium.com/mongo-injection-sql-injection-a8b76cd8b193)
 
 ## 📈 GitHub Stats 
 
