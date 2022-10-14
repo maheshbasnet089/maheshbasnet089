@@ -58,6 +58,7 @@ Hey there, it's me mahesh often called as manish from Nepal. I love to know how 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ## 📝 Latest Blog Posts
+- [Reconnaissance for Bug Bounty Hunting](https://medium.com/p/b4f082fa72f5)
 - [Fuzzing for Bug Bounty Hunting](https://maheshbasnet.medium.com/how-fuzzing-can-boost-you-bug-bounty-career-49e499900aa9)
 - [Bug Bounty Roadmap/Methodology](https://maheshbasnet.medium.com/bug-bounty-roadmap-methodology-f58f30b02218)
 
