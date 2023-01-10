@@ -19,14 +19,6 @@ Hey there, it's me mahesh often called as manish from Nepal. I love to know how 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
-
-- Online Tour Recommendatation && Booking Site(MERN)
-- File Sharing App 
-
-## 🌱 I'm currently learning
-
-- 📱 Advance Node js Concept
 
 ## 💼 Technical Skills
 
@@ -48,7 +40,7 @@ Hey there, it's me mahesh often called as manish from Nepal. I love to know how 
 
 </br>
 
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
+
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
