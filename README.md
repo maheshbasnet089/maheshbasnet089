@@ -29,6 +29,7 @@ Hey there, it's me mahesh often called as manish from Nepal. I love to know how 
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=NodeJs&color=003B57)
 
 </br>
 
