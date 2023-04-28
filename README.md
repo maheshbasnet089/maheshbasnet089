@@ -7,10 +7,10 @@ Hi there, I'm <a href="https://maheshbasnet.info.np/" target="_blank" rel="noref
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Content Writer ✍️, and Pentester 🧑‍💻.
+I'm a Full-Stack Web Developer at @hunchhadigitalagency 💻, Content Writer at medium ✍️, Pentester and bug hunter  at hackerone .🧑‍💻.
 </h2> 
 
-Hey there, it's me mahesh aka manish from Nepal. I love to know how things works under the hood in detail.  
+Hey there, it's me mahesh aka manish,full time developer at daytime and a bug hunter at hackerone at nighttime.
 
 ### 🤝 Connect with me:
 
