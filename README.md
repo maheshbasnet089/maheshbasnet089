@@ -16,7 +16,7 @@ I am a full time developer at daytime and a bug hunter at hackerone at nighttime
 <a href="https://www.linkedin.com/in/manish-basnet-200526213/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Mahesh basnet | Manish Basnet | LinkedIn" width="21px"/></a>
 <a href="https://maheshbasnet.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Manish Basnet|Mahesh Basnet" width="21px"/></a>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
 
 
 
