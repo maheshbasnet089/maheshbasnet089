@@ -30,4 +30,8 @@ I am a full time developer at daytime and a bug hunter at hackerone at nighttime
 
 [![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=maheshbasnet089)](https://github.com/maheshbasnet089)
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshbasnet089&label=Profile Views&color=blue&style=plastic" alt="saugat-rimal" /> </p>
+
+
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=maheshbasnet089.maheshbasnet089)](https://www.maheshbasnet.info.np/)
