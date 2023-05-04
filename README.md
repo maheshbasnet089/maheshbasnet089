@@ -21,12 +21,12 @@ I am a full time developer at daytime and a bug hunter at hackerone at nighttime
 
 
 
-## 📝 Latest Blog Posts
+### 📝 Latest Blog Posts
 - [Reconnaissance for Bug Bounty Hunting](https://medium.com/p/b4f082fa72f5)
 - [Fuzzing for Bug Bounty Hunting](https://maheshbasnet.medium.com/how-fuzzing-can-boost-you-bug-bounty-career-49e499900aa9)
 - [Bug Bounty Roadmap/Methodology](https://maheshbasnet.medium.com/bug-bounty-roadmap-methodology-f58f30b02218)
 
-## 📈 GitHub Stats 
+### 📈 GitHub Stats 
 
 [![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=maheshbasnet089)](https://github.com/maheshbasnet089)
 
