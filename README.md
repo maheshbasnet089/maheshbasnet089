@@ -33,4 +33,4 @@ I am a full time developer at daytime and a bug hunter at hackerone at nighttime
 
 
 
-[![Profile Views](https://visitor-badge.glitch.me/badge?page_id=maheshbasnet089.maheshbasnet089)](https://www.maheshbasnet.info.np/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=maheshbasnet089.maheshbasnet089)](https://www.maheshbasnet.info.np/)
