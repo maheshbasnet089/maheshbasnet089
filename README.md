@@ -22,6 +22,7 @@ I am a full time developer at daytime and a bug hunter at hackerone at nighttime
 
 
 ### 📝 Latest Blog Posts
+- [OWASP WSTG Fuzzing](https://owasp.org/www-project-web-security-testing-guide/latest/6-Appendix/C-Fuzzing)
 - [Reconnaissance for Bug Bounty Hunting](https://medium.com/p/b4f082fa72f5)
 - [Fuzzing for Bug Bounty Hunting](https://maheshbasnet.medium.com/how-fuzzing-can-boost-you-bug-bounty-career-49e499900aa9)
 - [Bug Bounty Roadmap/Methodology](https://maheshbasnet.medium.com/bug-bounty-roadmap-methodology-f58f30b02218)
