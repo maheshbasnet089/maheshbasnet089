@@ -22,6 +22,7 @@ I am a full time developer at daytime and a bug hunter at hackerone at nighttime
 
 
 ### 📝 Latest Blog Posts
+- [Bun: Revolutionizing JavaScript Development ](https://maheshbasnet.medium.com/bun-revolutionizing-javascript-development-an-in-depth-guide-with-real-world-examples-e8f6ce212ad9)
 - [OWASP WSTG Fuzzing](https://owasp.org/www-project-web-security-testing-guide/latest/6-Appendix/C-Fuzzing)
 - [Reconnaissance for Bug Bounty Hunting](https://medium.com/p/b4f082fa72f5)
 - [Fuzzing for Bug Bounty Hunting](https://maheshbasnet.medium.com/how-fuzzing-can-boost-you-bug-bounty-career-49e499900aa9)
@@ -34,4 +35,3 @@ I am a full time developer at daytime and a bug hunter at hackerone at nighttime
 
 
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=maheshbasnet089.maheshbasnet089)](https://www.maheshbasnet.info.np/)
