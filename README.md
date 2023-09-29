@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://maheshbasnet.info.np/" target="_blank" rel="noreferrer">Mahesh(Manish)</a>👋
+Hi there, I'm <a href="https://maheshbasnet.info.np/" target="_blank" rel="noreferrer">Mahesh aka Manish</a>👋
 </h3>
 
 
