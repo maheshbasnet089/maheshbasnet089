@@ -1,6 +1,3 @@
-<p align="center">
-  <a href="https://maheshbasnet.info.np/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/manishbasnet/image/upload/v1634626335/Modern_Digital_Marketing_Specialist_Personal_Profile_LinkedIn_Banner_gj9soy.png" alt="Mahesh basnet | Manish Basnet "></a>
-</p>
 
 <h3 align="center">
 Hi there, I'm <a href="https://maheshbasnet.info.np/" target="_blank" rel="noreferrer">Mahesh aka Manish</a>👋
